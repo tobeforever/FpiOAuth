@@ -1,1 +1,17 @@
-{"UserList":[{"UserName":"测试1","UserPhone":"15958170136"},{"UserName":"测试2","UserPhone":"15958170136"}],"AdminName":"刘晓鹏","AdminPhone":"17331905917"}
+{
+    "UserList": [
+        {
+            "UserName": "刘晓鹏",
+            "UserPhone": "15958170136",
+            "UserSckey": "SCU42837Te7f138ab14a92726d2f0da11b640dea35c47d6763fd97"
+        },
+        {
+            "UserName": "万微详",
+            "UserPhone": "13251012947",
+            "UserSckey": ""
+        }
+    ],
+    "AdminName": "刘晓鹏",
+    "AdminPhone": "15958170136",
+    "AdminSckey": "SCU42837Te7f138ab14a92726d2f0da11b640dea35c47d6763fd97"
+}
